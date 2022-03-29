@@ -18,7 +18,7 @@
 - 设置 `.pull-quote` 的宽度为 400 px. 并且通过 `margin` 使其水平居中.
 - 设置 `#main` 的 `margin` 使其内容水平居中 .
 - 设置 `#main` 宽度为500px, 高度为800px, 并且超出可以滚动.
-- 重置 `body` 的 margin and padding default values. 
+- 重置 `body` 的 margin and padding value 为 0px. 
 - 隐藏 `.global`
 
 
