@@ -9,6 +9,12 @@
 - 设 `#banner` 高度为350px.
 - 给 `h1` 添加 border style, 样式参考mockup.
 - 设置 `h3` border 样式参考mockup.
+  - border-width: 1px
+  - border-color: red
+  - border-style: dotted
+  - border-radius:4px
+  - 内边距：20px 30px
+  - 外边距：30px 20px
 - 设置 `.navigation li` elements to have 10 pixels of padding. 
 - 设置 `.share a` elements to have 14 pixels of padding.
 - 设置每个段落向上 margin 为 40 px.
